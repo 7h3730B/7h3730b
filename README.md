@@ -1,5 +1,5 @@
 ## Hey I'm Teo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-or better known as 7h3730B I'm a student from **Bavaria, Germany** I'm `{currentYear - 2004}` years old. Currently I want to get into low level stuff!
+or better known as 7h3730B. I'm a student from **Bavaria, Germany**. I'm `16` years old. Currently I want to get into low level stuff!
 
 <div align="center">
   <a href="https://badges.pufler.dev">
