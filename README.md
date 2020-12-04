@@ -21,7 +21,5 @@ or better known as 7h3730B. I'm a student from **Bavaria, Germany**. I'm **16** 
     </a>
   <div
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7h3730B&layout=compact&hide=css,HTML" height="170" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=7h3730B&show_icons=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7h3730B&layout=compact&hide=css,HTML" height="170" />&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=7h3730B&show_icons=true" height="170" />
 </div>
