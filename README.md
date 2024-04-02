@@ -1,5 +1,5 @@
 ## Hey I'm Teo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-or better known as 7h3730B. I'm a student from **Bavaria, Germany**. I'm **17** years old and currently I want to get into low level stuff!
+or better known as 7h3730B. I'm a student from **Bavaria, Germany**. I'm **19** years old and currently I want to get into low level stuff!
 
 <div align="center">
   <div>
